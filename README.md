@@ -81,7 +81,7 @@
     <td align='center'>13</td>
     <td><a href="13_cv_age_recognition">Определение возраста покупателей по фотографии</a></td>
     <td>Построить модель, которая по фотографии определит приблизительный возраст человека.</td>
-    <td><i>python, pytorch, keras<br><br>CV - обработка изображени, нейронные сети</i></td>
+    <td><i>python, pytorch, Tensorflow.keras<br><br>CV - обработка изображени, нейронные сети</i></td>
   </tr>
   <tr>
     <td align='center'>14</td>
